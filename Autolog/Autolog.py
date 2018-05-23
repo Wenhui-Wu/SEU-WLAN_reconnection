@@ -5,8 +5,8 @@ import time
 import requests
 import ctypes
 
-username_str = "213162450"
-password_str = "970509Ff"
+username_str = "一卡通号"
+password_str = "密码"
 
 class Login: 
 
