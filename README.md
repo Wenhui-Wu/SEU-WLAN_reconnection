@@ -1,5 +1,4 @@
 # seu-wlan-reconnection
-CHN || IMPORT: os / requests / selenium / time
 
 大家好，这是我的第一个从现实需求出发的Python小程序
 
